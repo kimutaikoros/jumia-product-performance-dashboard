@@ -44,10 +44,10 @@ Assembled KPI cards, 8 pivot charts, and 3 slicers (Rating category, Discount ca
 | Metric | Value |
 |---|---|
 | Total products | 112 |
-| Average price | ~KSh 1,180 |
-| Average discount | ~37% |
-| Average rating (rated products only) | ~3.9 |
-| Total reviews | 388 |
+| Average price | KSh 1,201 |
+| Average discount | 37% |
+| Average rating (rated products only) | 3.9 |
+| Total reviews | 723 |
 
 **Trend Analysis**
 - **Discount vs. Reviews:** correlation ≈ -0.14 — higher discounts do **not** lead to more reviews
